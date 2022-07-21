@@ -3,9 +3,11 @@ RENCANA SAYA
 - Javasccript
  * ES6
  *Framewrok Javascript
-  ^ angular
+  ^ Vue
   ^ React
 - PHP frameworks
   ^ Laravel
+- Struktur Data Dasar
 - Interview
 - Vlogs
+- Python
