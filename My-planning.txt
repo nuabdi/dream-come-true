@@ -4,5 +4,6 @@ RENCANA SAYA
  * ES6
  *Framewrok Javascript
 - PHP frameworks
+- Struktur Data Dasar
 - Interview
 - Vlogs
