@@ -1,6 +1,8 @@
 RENCANA SAYA
 
 - Javasccript
+ * ES6
+ *Framewrok Javascript
 - PHP frameworks
 - Interview
 - Vlogs
